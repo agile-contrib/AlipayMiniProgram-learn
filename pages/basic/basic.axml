@@ -1,0 +1,14 @@
+<view>
+
+  <!-- 列表渲染 -->
+  <text a:for='{{value1}}'>【{{item}}】</text>
+
+  <!-- 条件渲染 -->
+  <view a:if="{{value2 == 'type1'}}"> 类型一</view>
+  <view a:elif="{{value2 == 'type2'}}"> 类型二</view>
+  <view a:else> 其它类型</view>
+
+  <!-- 事件绑定 -->
+  <button onTap='doit1' size="default" type="primary">点击我</button>
+
+</view>

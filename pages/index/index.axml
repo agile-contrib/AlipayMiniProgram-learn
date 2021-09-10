@@ -1,4 +1,5 @@
-
-<view>
-
+<view class='nav'>
+  <navigator class='link' open-type="navigate" url="../basic/basic">
+    基础使用
+  </navigator>
 </view>

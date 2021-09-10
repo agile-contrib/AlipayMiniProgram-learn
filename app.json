@@ -1,6 +1,7 @@
 {
   "pages": [
-    "pages/index/index"
+    "pages/index/index",
+    "pages/basic/basic"
   ],
   "window": {
     "defaultTitle": "字符串小程序学习"
