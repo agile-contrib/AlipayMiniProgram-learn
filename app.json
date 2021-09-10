@@ -1,0 +1,8 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "defaultTitle": "字符串小程序学习"
+  }
+}
